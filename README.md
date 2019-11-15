@@ -1,3 +1,6 @@
+# Cloudera community link
+https://community.cloudera.com/t5/Community-Articles/How-to-create-a-CDP-environment-in-AWS-with-minimal/ta-p/282916
+
 # CDP Environment creation for AWS
 <div align="center">
 <img src="https://github.com/paulvid/emr_to_cdp/raw/master/data/cloudera_logo_darkorange.png" width="820" height="100" align="middle">
